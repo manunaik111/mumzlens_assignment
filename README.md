@@ -5,7 +5,7 @@
 
 ## What problem does this solve?
 
-While browsing [mumzworld.com](https://mumzworld.com), I noticed something: the Lansinoh Nipple Cream has 730 reviews and the Pigeon Softouch bottle has 194. But there is no way to filter them by who you are.
+While browsing [mumzworld.com](https://mumzworld.com), I noticed something: the Lansinoh  Cream has 730 reviews and the Pigeon Softouch bottle has 194. But there is no way to filter them by who you are.
 
 A 34-week pregnant first-time mom and a pumping mom of a 6-month-old are reading the exact same wall of text. A toddler mom looking at a baby carrier sees infant reviews. A new mom looking at a high chair sees toddler reviews. The information exists — but it is completely undifferentiated.
 

@@ -1,0 +1,240 @@
+[
+    {
+        "id": "TC01",
+        "name": "Strong signal — new mumz breastfeeding product",
+        "description": "Many relevant reviews for this stage. Should return high confidence verdict.",
+        "input": {
+            "product_name": "Lansinoh HPA Lanolin Nipple Cream",
+            "stage": "new_mumz",
+            "language": "both",
+            "reviews_from_product": "Lansinoh HPA Lanolin Nipple Cream"
+        },
+        "expected": {
+            "insufficient_data": false,
+            "confidence_score_min": 0.65,
+            "verdict_en_not_null": true,
+            "verdict_ar_not_null": true,
+            "grounded": true
+        },
+        "type": "easy"
+    },
+    {
+        "id": "TC02",
+        "name": "Stage mismatch — toddler product asked as pregnant",
+        "description": "Graco High Chair has mainly toddler reviews. Pregnant stage should yield low confidence or insufficient data.",
+        "input": {
+            "product_name": "Graco Slim Spaces High Chair",
+            "stage": "pregnant",
+            "language": "en",
+            "reviews_from_product": "Graco Slim Spaces High Chair"
+        },
+        "expected": {
+            "insufficient_data": true,
+            "confidence_score_max": 0.45,
+            "grounded": true
+        },
+        "type": "adversarial"
+    },
+    {
+        "id": "TC03",
+        "name": "Empty reviews list",
+        "description": "No reviews provided at all. System must refuse gracefully, not hallucinate.",
+        "input": {
+            "product_name": "Some Random Product",
+            "stage": "new_mumz",
+            "language": "en",
+            "reviews": []
+        },
+        "expected": {
+            "error": "validation_error",
+            "should_not_hallucinate": true
+        },
+        "type": "adversarial"
+    },
+    {
+        "id": "TC04",
+        "name": "Single review only",
+        "description": "Only one review available. Confidence must be low and insufficient_data must be true.",
+        "input": {
+            "product_name": "Mustela Cleansing Gel",
+            "stage": "new_mumz",
+            "language": "en",
+            "reviews": [
+                "Really gentle on my newborn's skin. No irritation at all."
+            ]
+        },
+        "expected": {
+            "insufficient_data": true,
+            "confidence_score_max": 0.4,
+            "verdict_en_not_null": true,
+            "grounded": true
+        },
+        "type": "adversarial"
+    },
+    {
+        "id": "TC05",
+        "name": "Arabic-only reviews, English output requested",
+        "description": "Reviews in Arabic, output requested in English only. System must handle cross-lingual synthesis.",
+        "input": {
+            "product_name": "Pigeon Softouch Bottle",
+            "stage": "new_mumz",
+            "language": "en",
+            "reviews": [
+                "حاولت عدة أنواع من الزجاجات وطفلي رفضها كلها. هذه الزجاجة قبلها من أول مرة.",
+                "أفضل زجاجة للرضاعة المختلطة. لا ارتباك للرضيع بين الثدي والزجاجة.",
+                "الحلمة ناعمة جداً وتشبه الثدي الطبيعي. أنصح بها بشدة."
+            ]
+        },
+        "expected": {
+            "verdict_en_not_null": true,
+            "verdict_ar_is_null": true,
+            "grounded": true
+        },
+        "type": "easy"
+    },
+    {
+        "id": "TC06",
+        "name": "Contradictory reviews — mixed signal",
+        "description": "Some reviews say great, some say baby rejected it. Uncertainty flags must be present.",
+        "input": {
+            "product_name": "Tommee Tippee Closer to Nature",
+            "stage": "new_mumz",
+            "language": "en",
+            "reviews": [
+                "My baby took to this bottle immediately. Best decision we made.",
+                "My baby flatly refused this bottle. Tried for 3 weeks and gave up.",
+                "Works great for us. No nipple confusion at all.",
+                "Did not work for our baby. Switched brands after a week.",
+                "Some babies love it some hate it. Lucky ours accepted it first try."
+            ]
+        },
+        "expected": {
+            "uncertainty_flags_not_empty": true,
+            "confidence_score_max": 0.65,
+            "grounded": true
+        },
+        "type": "adversarial"
+    },
+    {
+        "id": "TC07",
+        "name": "Toddler stage — product with good toddler signal",
+        "description": "Hatch Sound Machine has toddler ok-to-wake feature reviews. Should return confident toddler verdict.",
+        "input": {
+            "product_name": "Hatch Rest Baby Sound Machine",
+            "stage": "toddler_mumz",
+            "language": "both",
+            "reviews_from_product": "Hatch Rest Baby Sound Machine"
+        },
+        "expected": {
+            "insufficient_data": false,
+            "confidence_score_min": 0.55,
+            "verdict_en_not_null": true,
+            "verdict_ar_not_null": true,
+            "grounded": true
+        },
+        "type": "easy"
+    },
+    {
+        "id": "TC08",
+        "name": "Spam / low-quality reviews only",
+        "description": "Reviews are very short and uninformative. Should flag uncertainty and low confidence.",
+        "input": {
+            "product_name": "Generic Baby Cream",
+            "stage": "new_mumz",
+            "language": "en",
+            "reviews": [
+                "Great!!!",
+                "Love it",
+                "5 stars",
+                "Amazing product",
+                "Good"
+            ]
+        },
+        "expected": {
+            "uncertainty_flags_not_empty": true,
+            "confidence_score_max": 0.5,
+            "grounded": true
+        },
+        "type": "adversarial"
+    },
+    {
+        "id": "TC09",
+        "name": "Arabic output only — Arabic native quality check",
+        "description": "Arabic verdict must read as natural native Arabic, not a translation. Manual review required.",
+        "input": {
+            "product_name": "Mustela Gentle Cleansing Gel",
+            "stage": "new_mumz",
+            "language": "ar",
+            "reviews_from_product": "Mustela Gentle Cleansing Gel"
+        },
+        "expected": {
+            "verdict_ar_not_null": true,
+            "verdict_en_is_null": true,
+            "grounded": true,
+            "manual_check": "Arabic text must use natural colloquial/formal Arabic, not word-for-word translation patterns."
+        },
+        "type": "easy"
+    },
+    {
+        "id": "TC10",
+        "name": "Off-topic reviews — wrong product context",
+        "description": "Reviews are about a completely unrelated product. Grounded must be false or uncertainty very high.",
+        "input": {
+            "product_name": "Baby Bath Thermometer",
+            "stage": "new_mumz",
+            "language": "en",
+            "reviews": [
+                "The car seat was easy to install and very sturdy.",
+                "Excellent stroller, folds in one hand.",
+                "The travel cot fits perfectly in the boot of our SUV.",
+                "High chair is great for weaning."
+            ]
+        },
+        "expected": {
+            "uncertainty_flags_not_empty": true,
+            "confidence_score_max": 0.4,
+            "grounded": false
+        },
+        "type": "adversarial"
+    },
+    {
+        "id": "TC11",
+        "name": "Pregnant stage — product with strong pregnant signal",
+        "description": "Multiple reviews explicitly from pregnant moms. Should return a relevant verdict for that stage.",
+        "input": {
+            "product_name": "Chicco Next2Me Magic Bedside Crib",
+            "stage": "pregnant",
+            "language": "both",
+            "reviews_from_product": "Chicco Next2Me Magic Bedside Crib"
+        },
+        "expected": {
+            "insufficient_data": false,
+            "verdict_en_not_null": true,
+            "verdict_ar_not_null": true,
+            "grounded": true
+        },
+        "type": "easy"
+    },
+    {
+        "id": "TC12",
+        "name": "Safety concern in reviews — must surface in cons",
+        "description": "Reviews mention a safety or health concern. This must appear in cons, not be omitted.",
+        "input": {
+            "product_name": "Pigeon Glass Bottle",
+            "stage": "toddler_mumz",
+            "language": "en",
+            "reviews": [
+                "The glass broke when my toddler dropped it. Safety hazard with walking babies.",
+                "My 2 year old smashed it on the floor. Scary moment.",
+                "Glass is fine for newborns but dangerous once they can throw things.",
+                "Would recommend plastic version for toddlers specifically."
+            ]
+        },
+        "expected": {
+            "cons_en_not_empty": true,
+            "cons_must_mention_safety": true,
+            "grounded": true
+        },
+        "type": "adversarial"
+    }
+]

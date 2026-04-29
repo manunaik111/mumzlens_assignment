@@ -1,0 +1,1352 @@
+[
+    {
+        "id": "r001",
+        "product": "Mustela Gentle Cleansing Gel",
+        "category": "bath",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My newborn has really sensitive skin and this gel has been a lifesaver. No redness, no irritation, and it lathers really gently. We use it every bath time. Pediatrician approved it too."
+    },
+    {
+        "id": "r002",
+        "product": "Mustela Gentle Cleansing Gel",
+        "category": "bath",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "Bought this while still pregnant to have it ready. Smells lovely and very mild. Haven't used it on baby yet but tested on my own skin and it feels incredibly gentle."
+    },
+    {
+        "id": "r003",
+        "product": "Mustela Gentle Cleansing Gel",
+        "category": "bath",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "منتج رائع لبشرة طفلي الحساسة. لا يسبب أي تهيج ورائحته لطيفة جداً. أنصح به كل أم جديدة بشدة."
+    },
+    {
+        "id": "r004",
+        "product": "Mustela Gentle Cleansing Gel",
+        "category": "bath",
+        "rating": 3,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Works fine but my toddler finds it too mild now. We switched to something with a bit more cleaning power for after outdoor play. For babies under 1 it is perfect though."
+    },
+    {
+        "id": "r005",
+        "product": "Mustela Gentle Cleansing Gel",
+        "category": "bath",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Used this from day one after leaving the hospital. The NICU nurse actually recommended Mustela. No cradle cap, no dry patches. Worth every dirham."
+    },
+    {
+        "id": "r006",
+        "product": "Mustela Gentle Cleansing Gel",
+        "category": "bath",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "استخدمته من الأسبوع الأول بعد الولادة. بشرة طفلتي ناعمة ومرطبة. السعر مناسب مقارنة بالماركات الأخرى."
+    },
+    {
+        "id": "r007",
+        "product": "Mustela Gentle Cleansing Gel",
+        "category": "bath",
+        "rating": 2,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "My 2 year old keeps slipping in the bath because this is so slippery. Also goes through the bottle very fast for a toddler. Probably better for younger babies."
+    },
+    {
+        "id": "r008",
+        "product": "Mustela Gentle Cleansing Gel",
+        "category": "bath",
+        "rating": 5,
+        "stage": "pregnant",
+        "language": "ar",
+        "text": "اشتريته قبل الولادة بناءً على توصية صديقتي. المكونات آمنة جداً ومناسبة للأطفال حديثي الولادة. في انتظار استخدامه."
+    },
+    {
+        "id": "r009",
+        "product": "Mustela Gentle Cleansing Gel",
+        "category": "bath",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My baby had eczema flares in the first month. The dermatologist suggested Mustela and it made a huge difference within two weeks. The gel does not strip moisture at all."
+    },
+    {
+        "id": "r010",
+        "product": "Mustela Gentle Cleansing Gel",
+        "category": "bath",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Really happy with this. Used it for my second baby too. Both kids have sensitive skin and this never caused any reaction. Reordered three times already."
+    },
+    {
+        "id": "r011",
+        "product": "Lansinoh HPA Lanolin Nipple Cream",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Absolute must-have for breastfeeding. My nipples were cracked and bleeding in week one. This cream healed them within 48 hours. You do not need to wipe it off before feeding which is a huge plus."
+    },
+    {
+        "id": "r012",
+        "product": "Lansinoh HPA Lanolin Nipple Cream",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "أنقذت هذه الكريم تجربة الرضاعة بالنسبة لي. كنت على وشك الاستسلام بسبب الألم الشديد، لكن بعد يومين من الاستخدام تحسن الوضع كثيراً. لا حاجة لإزالتها قبل الإرضاع."
+    },
+    {
+        "id": "r013",
+        "product": "Lansinoh HPA Lanolin Nipple Cream",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "My lactation consultant told me to buy this before delivering. Have it ready in the hospital bag. Heard so many good things about it from other moms in my antenatal class."
+    },
+    {
+        "id": "r014",
+        "product": "Lansinoh HPA Lanolin Nipple Cream",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "I exclusively pump and this has been essential. The flange friction was causing so much soreness. Applying before each pump session made a massive difference immediately."
+    },
+    {
+        "id": "r015",
+        "product": "Lansinoh HPA Lanolin Nipple Cream",
+        "category": "feeding",
+        "rating": 3,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "It works but it is very thick and sticky. Gets on everything including baby's face. Wish the texture was a bit lighter. The healing effect is real though."
+    },
+    {
+        "id": "r016",
+        "product": "Lansinoh HPA Lanolin Nipple Cream",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "للأمهات المرضعات هذا المنتج ضروري جداً. استخدمته من اليوم الأول في المستشفى ولم أعاني من أي تشققات. أنصح كل أم به قبل الولادة."
+    },
+    {
+        "id": "r017",
+        "product": "Lansinoh HPA Lanolin Nipple Cream",
+        "category": "feeding",
+        "rating": 1,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Bought this by mistake thinking it was a general moisturizer. Not relevant for my stage anymore. Gave it to a friend who just delivered."
+    },
+    {
+        "id": "r018",
+        "product": "Lansinoh HPA Lanolin Nipple Cream",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Third baby and I still swear by this. Nothing else comes close for breastfeeding soreness. The tube lasts a long time because a little goes a long way."
+    },
+    {
+        "id": "r019",
+        "product": "Lansinoh HPA Lanolin Nipple Cream",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Works well for direct breastfeeding. I noticed it helped more when applied right after feeding rather than before. Skin felt noticeably better after three days."
+    },
+    {
+        "id": "r020",
+        "product": "Lansinoh HPA Lanolin Nipple Cream",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "pregnant",
+        "language": "ar",
+        "text": "اشتريته استعداداً للرضاعة بناء على نصيحة طبيبة التوليد. قالت إنه الأفضل في السوق للأمهات المرضعات."
+    },
+    {
+        "id": "r021",
+        "product": "Pigeon Softouch Wide Neck Glass Bottle",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My baby refused every bottle we tried. The Pigeon Softouch nipple mimics breastfeeding so well that she took to it immediately. Game changer for combo feeding."
+    },
+    {
+        "id": "r022",
+        "product": "Pigeon Softouch Wide Neck Glass Bottle",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "حاولت عدة أنواع من الزجاجات وطفلي رفضها كلها. هذه الزجاجة قبلها من أول مرة. الحلمة ناعمة جداً وتشبه الثدي الطبيعي."
+    },
+    {
+        "id": "r023",
+        "product": "Pigeon Softouch Wide Neck Glass Bottle",
+        "category": "feeding",
+        "rating": 3,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Good bottle but the glass is heavy for a newborn. Works perfectly but I switched to the plastic version for travel. For home use the glass is great for avoiding chemicals."
+    },
+    {
+        "id": "r024",
+        "product": "Pigeon Softouch Wide Neck Glass Bottle",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Using this for expressed breast milk. The wide neck makes it easy to fill and clean. No leaking at all. The slow flow nipple is perfect for my 6 week old."
+    },
+    {
+        "id": "r025",
+        "product": "Pigeon Softouch Wide Neck Glass Bottle",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "Research said glass is better than plastic for newborns so I went with this. Pigeon is a trusted brand. Hoping my baby accepts it easily."
+    },
+    {
+        "id": "r026",
+        "product": "Pigeon Softouch Wide Neck Glass Bottle",
+        "category": "feeding",
+        "rating": 2,
+        "stage": "toddler_mumz",
+        "language": "ar",
+        "text": "طفلي عمره سنتان وكسر الزجاجة. للأطفال الصغار هي ممتازة لكن لمرحلة الحبو والمشي الزجاج خطر."
+    },
+    {
+        "id": "r027",
+        "product": "Pigeon Softouch Wide Neck Glass Bottle",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "NICU recommended Pigeon for preemie babies. My daughter was born at 34 weeks and this was the only bottle she could manage. The slow flow is genuinely slow."
+    },
+    {
+        "id": "r028",
+        "product": "Pigeon Softouch Wide Neck Glass Bottle",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "أفضل زجاجة جربتها. طفلتي تتنقل بين الرضاعة الطبيعية وهذه الزجاجة بدون أي مشكلة. الحلمة ممتازة جداً."
+    },
+    {
+        "id": "r029",
+        "product": "Pigeon Softouch Wide Neck Glass Bottle",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Very easy to sterilize in the microwave sterilizer. The wide neck fits perfectly. Only downside is it only comes in 160ml which is small once baby grows past 3 months."
+    },
+    {
+        "id": "r030",
+        "product": "Pigeon Softouch Wide Neck Glass Bottle",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My son had nipple confusion switching between breast and bottle. This was the only one that did not disrupt our breastfeeding journey. Highly recommend for breastfed babies."
+    },
+    {
+        "id": "r031",
+        "product": "Momcozy Kleanpal Pro Baby Bottle Washer",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "When you are sleep deprived the last thing you want is to hand wash bottles at 3am. This machine does everything. We run it twice a day and it keeps up with our feeding schedule perfectly."
+    },
+    {
+        "id": "r032",
+        "product": "Momcozy Kleanpal Pro Baby Bottle Washer",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "توفر وقت ومجهود هائل. الآن غسل الزجاجات لم يعد مرهقاً. تعمل بهدوء وتنظف بشكل ممتاز. استثمار يستحق كل ريال."
+    },
+    {
+        "id": "r033",
+        "product": "Momcozy Kleanpal Pro Baby Bottle Washer",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "Got this as a baby shower gift. Yet to use it but setup was easy and it looks very well built. The 60 piece brush set that comes with it is a bonus."
+    },
+    {
+        "id": "r034",
+        "product": "Momcozy Kleanpal Pro Baby Bottle Washer",
+        "category": "feeding",
+        "rating": 3,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "We used this heavily for the first year. Now that our toddler is on cups we barely use it. Still works perfectly though. Would buy again if we have another baby."
+    },
+    {
+        "id": "r035",
+        "product": "Momcozy Kleanpal Pro Baby Bottle Washer",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "I pump exclusively so I have a lot of parts to clean every single day. This washer handles pump parts perfectly alongside bottles. Saves me at least 45 minutes a day."
+    },
+    {
+        "id": "r036",
+        "product": "Momcozy Kleanpal Pro Baby Bottle Washer",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "ممتازة لغسيل الزجاجات يومياً. الصوت هادئ ولا يوقظ الطفل. التنظيف عميق والتجفيف جيد. أنصح به للأمهات الجدد بشدة."
+    },
+    {
+        "id": "r037",
+        "product": "Momcozy Kleanpal Pro Baby Bottle Washer",
+        "category": "feeding",
+        "rating": 2,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Stopped working after 3 months. Customer service was slow to respond. The cleaning itself was good while it worked but the durability is disappointing at this price point."
+    },
+    {
+        "id": "r038",
+        "product": "Momcozy Kleanpal Pro Baby Bottle Washer",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Twin mum here. I have double the bottles and double the chaos. This machine is the only reason I am surviving the newborn stage. Cannot imagine life without it now."
+    },
+    {
+        "id": "r039",
+        "product": "Momcozy Kleanpal Pro Baby Bottle Washer",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Easy to set up and intuitive controls. Fits standard bottles and most pump parts. The UV sterilization gives me peace of mind. A bit bulky on the counter but worth the space."
+    },
+    {
+        "id": "r040",
+        "product": "Momcozy Kleanpal Pro Baby Bottle Washer",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "pregnant",
+        "language": "ar",
+        "text": "اشتريته قبل الولادة استعداداً. التجميع سهل والتصميم أنيق. أتمنى أن يكون بنفس مستوى التقييمات الإيجابية التي قرأتها."
+    },
+    {
+        "id": "r041",
+        "product": "BabyBjorn Bouncer Balance Soft",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "This bouncer gave me back my hands. My colicky newborn would only settle in it. The gentle bounce from baby's own movement is genius. Worth every penny for sanity alone."
+    },
+    {
+        "id": "r042",
+        "product": "BabyBjorn Bouncer Balance Soft",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "أنقذت عقلي هذه الأرجوحة. طفلي المصاب بالمغص لا يهدأ إلا فيها. الحركة الطبيعية من حركة الطفل نفسه فكرة عبقرية. تستحق سعرها تماماً."
+    },
+    {
+        "id": "r043",
+        "product": "BabyBjorn Bouncer Balance Soft",
+        "category": "gear",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "Researched bouncers for months. BabyBjorn came out on top every time. The ergonomic position and no batteries required sold it for me. Bought before delivery."
+    },
+    {
+        "id": "r044",
+        "product": "BabyBjorn Bouncer Balance Soft",
+        "category": "gear",
+        "rating": 3,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "My toddler still loves sitting in it at 18 months but she is almost at the weight limit. It served us well from birth. Now it just collects dust mostly."
+    },
+    {
+        "id": "r045",
+        "product": "BabyBjorn Bouncer Balance Soft",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Second child and bought this again. First time we borrowed one and I used it so much I needed my own. The fabric is soft and the safety harness is easy to use one handed."
+    },
+    {
+        "id": "r046",
+        "product": "BabyBjorn Bouncer Balance Soft",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "استخدمتها من الأسبوع الثاني. طفلتي تنام فيها أحياناً بسهولة. القماش ناعم وسهل التنظيف. أنصح به بشدة للأمهات الجدد."
+    },
+    {
+        "id": "r047",
+        "product": "BabyBjorn Bouncer Balance Soft",
+        "category": "gear",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Really well made. The seat cover comes off easily for washing. My baby is 4 months now and still uses it daily. The recline positions are great for different activities."
+    },
+    {
+        "id": "r048",
+        "product": "BabyBjorn Bouncer Balance Soft",
+        "category": "gear",
+        "rating": 2,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My baby just did not take to it. She screamed every time we put her in. Every baby is different. The build quality is excellent though so maybe it will work for our next one."
+    },
+    {
+        "id": "r049",
+        "product": "BabyBjorn Bouncer Balance Soft",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "أفضل استثمار في الأشهر الأولى. طفلي يجلس فيها بأمان وأنا أستطيع إنجاز بعض الأعمال. الخامات ممتازة والألوان جميلة."
+    },
+    {
+        "id": "r050",
+        "product": "BabyBjorn Bouncer Balance Soft",
+        "category": "gear",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "ar",
+        "text": "اشتريتها استعداداً للولادة. صديقتي أنصحتني بها وقالت إنها أفضل قطعة اشترتها لطفلها. أتطلع لتجربتها."
+    },
+    {
+        "id": "r051",
+        "product": "Chicco Next2Me Magic Bedside Crib",
+        "category": "bedroom",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Safe co-sleeping without actually co-sleeping. My baby is right next to me but in her own safe space. Night feeds are so much easier. The zip-down side means I barely wake up fully."
+    },
+    {
+        "id": "r052",
+        "product": "Chicco Next2Me Magic Bedside Crib",
+        "category": "bedroom",
+        "rating": 5,
+        "stage": "pregnant",
+        "language": "ar",
+        "text": "قرأت كثيراً عنها قبل الشراء. السرير الجانبي مثالي للرضاعة الليلية دون الحاجة للنهوض. الأمان والراحة معاً."
+    },
+    {
+        "id": "r053",
+        "product": "Chicco Next2Me Magic Bedside Crib",
+        "category": "bedroom",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Setup took about an hour but instructions were clear. Fits snugly against our bed frame. The height adjustment worked perfectly for our mattress height. Baby slept in it from night one."
+    },
+    {
+        "id": "r054",
+        "product": "Chicco Next2Me Magic Bedside Crib",
+        "category": "bedroom",
+        "rating": 3,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Good concept but the rocking feature is not very effective. My baby needed more movement than it provides. Also quite bulky for a small bedroom. Works as a safe sleep space though."
+    },
+    {
+        "id": "r055",
+        "product": "Chicco Next2Me Magic Bedside Crib",
+        "category": "bedroom",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "الرضاعة الليلية أصبحت سهلة جداً. أفتح الجانب وأرضع طفلتي دون أن أغادر السرير. نوم أفضل للجميع. شراء ممتاز."
+    },
+    {
+        "id": "r056",
+        "product": "Chicco Next2Me Magic Bedside Crib",
+        "category": "bedroom",
+        "rating": 2,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Only used it for 5 months before baby outgrew it. Felt expensive for such a short use period. The transition to a regular cot after was also hard for baby."
+    },
+    {
+        "id": "r057",
+        "product": "Chicco Next2Me Magic Bedside Crib",
+        "category": "bedroom",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "After a C-section I could not get in and out of bed easily. This crib meant I never had to fully stand up for night feeds. Absolutely essential for C-section recovery."
+    },
+    {
+        "id": "r058",
+        "product": "Chicco Next2Me Magic Bedside Crib",
+        "category": "bedroom",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "Bought this based on recommendations from my antenatal group. Planning to breastfeed so the easy access at night is the main selling point. Assembled it already at 36 weeks."
+    },
+    {
+        "id": "r059",
+        "product": "Chicco Next2Me Magic Bedside Crib",
+        "category": "bedroom",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "بعد العملية القيصرية لم أستطع الحركة بسهولة. هذا السرير جعل الرضاعة الليلية ممكنة دون معاناة. أنصح به بشدة لأمهات السيزر."
+    },
+    {
+        "id": "r060",
+        "product": "Chicco Next2Me Magic Bedside Crib",
+        "category": "bedroom",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Great for the first few months. The breathable mesh sides give me peace of mind. Mattress that comes with it is decent. Would recommend for newborn stage without hesitation."
+    },
+    {
+        "id": "r061",
+        "product": "Ergobaby Omni 360 Baby Carrier",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "I wear my baby for at least 3 hours a day and my back does not hurt at all. The lumbar support is incredible. My hands are free and baby is calm. Worth every single cent."
+    },
+    {
+        "id": "r062",
+        "product": "Ergobaby Omni 360 Baby Carrier",
+        "category": "gear",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "حمل طفلي بهذه الحقيبة أصبح متعة. لا ألم في الظهر رغم الاستخدام الطويل. يمكن استخدامها بأوضاع مختلفة. ممتازة من الولادة."
+    },
+    {
+        "id": "r063",
+        "product": "Ergobaby Omni 360 Baby Carrier",
+        "category": "gear",
+        "rating": 5,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "Researched carriers for months. The Omni 360 is the only one that works from newborn without an insert. Bought it at 38 weeks. Cannot wait to use it."
+    },
+    {
+        "id": "r064",
+        "product": "Ergobaby Omni 360 Baby Carrier",
+        "category": "gear",
+        "rating": 4,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Still using this at 22 months for school runs. The back carry position is essential at this age and weight. Starting to feel heavy for long durations but still the best carrier I have used."
+    },
+    {
+        "id": "r065",
+        "product": "Ergobaby Omni 360 Baby Carrier",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My colicky baby needed constant holding. This carrier let me hold him while cooking, cleaning, even showering nearby. The head support for newborns is excellent and feels very secure."
+    },
+    {
+        "id": "r066",
+        "product": "Ergobaby Omni 360 Baby Carrier",
+        "category": "gear",
+        "rating": 3,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "الحمل جيد لكن التعليمات معقدة في البداية. احتجت لمشاهدة فيديو على يوتيوب لأفهم كيفية التركيب. بعد التعود أصبح سهلاً جداً."
+    },
+    {
+        "id": "r067",
+        "product": "Ergobaby Omni 360 Baby Carrier",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Hot climate warning: this carrier is warm. In Dubai summers I use it only in air conditioning. For winter and indoors it is absolutely perfect. Baby loves being close."
+    },
+    {
+        "id": "r068",
+        "product": "Ergobaby Omni 360 Baby Carrier",
+        "category": "gear",
+        "rating": 4,
+        "stage": "toddler_mumz",
+        "language": "ar",
+        "text": "لا زلت أستخدمها مع طفلتي بعمر سنة ونصف. وضعية الظهر ممتازة لهذا العمر. الجودة استمرت رغم الاستخدام المستمر."
+    },
+    {
+        "id": "r069",
+        "product": "Ergobaby Omni 360 Baby Carrier",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Used this for airport travel with a 6 week old. Went through security and all gates with ease. Baby slept the entire flight in the carrier. Absolute lifesaver for travelling mums."
+    },
+    {
+        "id": "r070",
+        "product": "Ergobaby Omni 360 Baby Carrier",
+        "category": "gear",
+        "rating": 2,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Very difficult to put on alone. Always need a second person to adjust straps. If you plan to use it solo regularly it can be frustrating especially with a fussy baby."
+    },
+    {
+        "id": "r071",
+        "product": "Pampers Premium Care Newborn Diapers",
+        "category": "diapers",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Zero leaks in three weeks of use. The wetness indicator is so helpful at night when you are too tired to check. Incredibly soft against newborn skin. Worth the premium price."
+    },
+    {
+        "id": "r072",
+        "product": "Pampers Premium Care Newborn Diapers",
+        "category": "diapers",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "لا تسربات على الإطلاق. مؤشر الرطوبة مفيد جداً في الليل. ناعمة جداً على بشرة المولود الحساسة. لن أغير هذا النوع."
+    },
+    {
+        "id": "r073",
+        "product": "Pampers Premium Care Newborn Diapers",
+        "category": "diapers",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "Stocked up on these before delivery. Pampers Premium is what the hospital used so I wanted to continue. The newborn size has the umbilical cord cutout which is important."
+    },
+    {
+        "id": "r074",
+        "product": "Pampers Premium Care Newborn Diapers",
+        "category": "diapers",
+        "rating": 3,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Good diapers but very expensive. Once my baby hit 4kg I switched to the Active Baby range which is cheaper and just as good. For tiny newborns the Premium is worth it though."
+    },
+    {
+        "id": "r075",
+        "product": "Pampers Premium Care Newborn Diapers",
+        "category": "diapers",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My preemie was in NICU and the nurses used Pampers Premium. When we came home I kept using them. The gentleness on fragile newborn skin is unmatched in my experience."
+    },
+    {
+        "id": "r076",
+        "product": "Pampers Premium Care Newborn Diapers",
+        "category": "diapers",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "استخدمتها من اليوم الأول. لا حساسية ولا احمرار. فتحة الحبل السري ممتازة في الأسابيع الأولى. أنصح بها للمواليد الجدد."
+    },
+    {
+        "id": "r077",
+        "product": "Pampers Premium Care Newborn Diapers",
+        "category": "diapers",
+        "rating": 2,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My baby had a reaction to these unfortunately. Red rash appeared after two days. Switched to Huggies and the rash cleared. Every baby is different with diapers."
+    },
+    {
+        "id": "r078",
+        "product": "Pampers Premium Care Newborn Diapers",
+        "category": "diapers",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Using for my third baby. First two babies were also on Pampers Premium from birth. No issues ever. The overnight protection is especially good for longer sleep stretches."
+    },
+    {
+        "id": "r079",
+        "product": "Pampers Premium Care Newborn Diapers",
+        "category": "diapers",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "ar",
+        "text": "اشتريت عدة علب استعداداً. سمعة باميرز بريميوم ممتازة وفتحة الحبل السري ضرورية في الأسابيع الأولى."
+    },
+    {
+        "id": "r080",
+        "product": "Pampers Premium Care Newborn Diapers",
+        "category": "diapers",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Twins mum. Used an enormous quantity of these. Never had a blowout in the first month. The elastic waistband is gentle and leaves no marks on their tiny skin."
+    },
+    {
+        "id": "r081",
+        "product": "Graco Slim Spaces High Chair",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Folds completely flat for storage which is essential in our apartment. My toddler has been using it since 6 months. Still sturdy at 18 months. The tray is easy to clean."
+    },
+    {
+        "id": "r082",
+        "product": "Graco Slim Spaces High Chair",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "toddler_mumz",
+        "language": "ar",
+        "text": "مثالية للمطابخ الصغيرة. تطوى بشكل مسطح وتأخذ مساحة قليلة. طفلي يستخدمها منذ 6 أشهر وهو الآن بعمر سنتين ولا تزال متينة."
+    },
+    {
+        "id": "r083",
+        "product": "Graco Slim Spaces High Chair",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "The 6 height positions mean it grows with the baby. We have had it since weaning at 5 months and it still fits perfectly at our dining table at 20 months."
+    },
+    {
+        "id": "r084",
+        "product": "Graco Slim Spaces High Chair",
+        "category": "feeding",
+        "rating": 3,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Good chair but the straps are complicated. My toddler worked out how to escape within a week. The fabric is also hard to get completely clean after puree explosions."
+    },
+    {
+        "id": "r085",
+        "product": "Graco Slim Spaces High Chair",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "Bought this early because space in our kitchen is very limited. The slim fold feature was the deciding factor. Good reviews across the board gave me confidence."
+    },
+    {
+        "id": "r086",
+        "product": "Graco Slim Spaces High Chair",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "toddler_mumz",
+        "language": "ar",
+        "text": "أفضل كرسي أكل جربته. خفيف الوزن ويمكن تحريكه بسهولة بين الغرف. طفلي يحبه ويطلب الجلوس فيه. السعر مناسب جداً."
+    },
+    {
+        "id": "r087",
+        "product": "Graco Slim Spaces High Chair",
+        "category": "feeding",
+        "rating": 2,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "The plastic on the tray cracked at 14 months. Contacted support but it was out of warranty. Build quality feels cheap compared to the price. Would look at other brands next time."
+    },
+    {
+        "id": "r088",
+        "product": "Graco Slim Spaces High Chair",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Started baby led weaning at 6 months with this chair. It has survived every mess imaginable. The wipeable seat pad is a genius design choice. Essential for BLW families."
+    },
+    {
+        "id": "r089",
+        "product": "Graco Slim Spaces High Chair",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "toddler_mumz",
+        "language": "ar",
+        "text": "استخدمناه منذ بدء التغذية التكميلية. الصواني سهلة التنظيف والكرسي ثابت. الطي السريع ميزة رائعة لشقتنا الصغيرة."
+    },
+    {
+        "id": "r090",
+        "product": "Graco Slim Spaces High Chair",
+        "category": "feeding",
+        "rating": 3,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Decent chair. The recline for younger babies is useful. By 15 months my daughter started rocking it aggressively and I worry about stability. Might need something heavier soon."
+    },
+    {
+        "id": "r091",
+        "product": "Safety First Baby Monitor",
+        "category": "safety",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Clear picture day and night. The two way audio lets me talk to my baby without going into the room. App works well even on older phones. Battery life on the parent unit is excellent."
+    },
+    {
+        "id": "r092",
+        "product": "Safety First Baby Monitor",
+        "category": "safety",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "الصورة واضحة ليلاً ونهاراً. الصوت الثنائي الاتجاه ميزة رائعة. التطبيق سهل الاستخدام. راحة بال لا تقدر بثمن."
+    },
+    {
+        "id": "r093",
+        "product": "Safety First Baby Monitor",
+        "category": "safety",
+        "rating": 3,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Works fine but the WiFi connection drops occasionally. When it reconnects it takes about 30 seconds which feels like forever at 2am. The picture quality makes up for it."
+    },
+    {
+        "id": "r094",
+        "product": "Safety First Baby Monitor",
+        "category": "safety",
+        "rating": 5,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "Set this up in the nursery before the baby arrived. The coverage is excellent throughout our villa. The temperature display is a feature I did not know I needed."
+    },
+    {
+        "id": "r095",
+        "product": "Safety First Baby Monitor",
+        "category": "safety",
+        "rating": 4,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Still using at 2 years old. We moved it to toddler bed transition. The ability to speak to her through it when she wakes helps her settle without needing us in the room."
+    },
+    {
+        "id": "r096",
+        "product": "Safety First Baby Monitor",
+        "category": "safety",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "أول شيء نصبته في غرفة الطفل. الكاميرا تلتقط كل شيء بوضوح. ميزة قياس درجة الحرارة مفيدة جداً. أنصح به لكل أم جديدة."
+    },
+    {
+        "id": "r097",
+        "product": "Safety First Baby Monitor",
+        "category": "safety",
+        "rating": 2,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "The app crashed repeatedly on my Android phone. Spent more time troubleshooting than monitoring. Works fine on my husband's iPhone. Android support needs serious improvement."
+    },
+    {
+        "id": "r098",
+        "product": "Safety First Baby Monitor",
+        "category": "safety",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Setup was easy and the picture is sharp. The motion detection alerts are sensitive but adjustable. Night vision is genuinely good. Happy with this purchase overall."
+    },
+    {
+        "id": "r099",
+        "product": "Safety First Baby Monitor",
+        "category": "safety",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "الجودة ممتازة والتركيب سهل. رؤية ليلية واضحة جداً. التنبيهات بالحركة مفيدة. يستحق السعر بكل تأكيد."
+    },
+    {
+        "id": "r100",
+        "product": "Safety First Baby Monitor",
+        "category": "safety",
+        "rating": 3,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Good product but the base unit screen is quite small. If you are relying on the parent unit rather than the app you will find yourself squinting. App is the better way to use it."
+    },
+    {
+        "id": "r101",
+        "product": "Frida Baby NoseFrida Snot Sucker",
+        "category": "health",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Sounds disgusting but it is life changing. My congested newborn could not feed properly. One session with the NoseFrida and she fed perfectly. Yes you suck through a tube but there is a filter."
+    },
+    {
+        "id": "r102",
+        "product": "Frida Baby NoseFrida Snot Sucker",
+        "category": "health",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "أعلم أن الفكرة تبدو غريبة لكنها أفضل شيء اشتريته. طفلتي كانت مزكومة ولا تستطيع الرضاعة. بعد الاستخدام تحسنت فوراً. الفلتر يمنع أي شيء من الوصول."
+    },
+    {
+        "id": "r103",
+        "product": "Frida Baby NoseFrida Snot Sucker",
+        "category": "health",
+        "rating": 4,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Used this from newborn to now at 2 years. Still the most effective tool for blocked noses. My toddler hates it but tolerates it. Works better than any bulb syringe ever did."
+    },
+    {
+        "id": "r104",
+        "product": "Frida Baby NoseFrida Snot Sucker",
+        "category": "health",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Essential for cold and flu season with a newborn. Babies cannot blow their nose and cannot breathe through their mouths. This tool gave my baby relief instantly every single time."
+    },
+    {
+        "id": "r105",
+        "product": "Frida Baby NoseFrida Snot Sucker",
+        "category": "health",
+        "rating": 3,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "فعالة جداً لكن طفلي يبكي بشدة عند الاستخدام. يحتاج شخصين واحد يمسك والآخر يستخدم الأداة. النتيجة تستحق الجهد."
+    },
+    {
+        "id": "r106",
+        "product": "Frida Baby NoseFrida Snot Sucker",
+        "category": "health",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My pediatrician recommended this specifically. Used it every time my baby got congested in the first year. Easy to clean, hygienic, and genuinely the most effective nasal aspirator."
+    },
+    {
+        "id": "r107",
+        "product": "Frida Baby NoseFrida Snot Sucker",
+        "category": "health",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "Adding this to the hospital bag. Multiple mum friends told me this is the one product they wish they had bought before delivery. Getting it early."
+    },
+    {
+        "id": "r108",
+        "product": "Frida Baby NoseFrida Snot Sucker",
+        "category": "health",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "أوصى بها طبيب الأطفال. استخدمتها كلما أصيب طفلي بالزكام. سهلة التنظيف وآمنة تماماً. لا غنى عنها في أي بيت فيه أطفال صغار."
+    },
+    {
+        "id": "r109",
+        "product": "Frida Baby NoseFrida Snot Sucker",
+        "category": "health",
+        "rating": 2,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Could not get the suction right. Watched the videos and still struggled. Ended up going back to a bulb syringe. Maybe it works better for others but I could not master it."
+    },
+    {
+        "id": "r110",
+        "product": "Frida Baby NoseFrida Snot Sucker",
+        "category": "health",
+        "rating": 5,
+        "stage": "toddler_mumz",
+        "language": "ar",
+        "text": "استخدمتها منذ الولادة وطفلي الآن سنتان. لا تزال تعمل بشكل مثالي. أفضل أداة لتنظيف الأنف في السوق بلا منازع."
+    },
+    {
+        "id": "r111",
+        "product": "Hatch Rest Baby Sound Machine",
+        "category": "bedroom",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "White noise changed our lives at 3 weeks. My baby went from 45 minute naps to 2 hour stretches overnight. The app control means I can adjust volume without going into the room."
+    },
+    {
+        "id": "r112",
+        "product": "Hatch Rest Baby Sound Machine",
+        "category": "bedroom",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "الضوضاء البيضاء غيرت روتين نوم طفلي تماماً. من النوم 45 دقيقة إلى ساعتين. التحكم عبر التطبيق رائع جداً."
+    },
+    {
+        "id": "r113",
+        "product": "Hatch Rest Baby Sound Machine",
+        "category": "bedroom",
+        "rating": 4,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "We started with this at birth and at 2 years it doubles as a toddler ok-to-wake clock. The red means stay in bed, green means come out. Transformed our early morning wake ups."
+    },
+    {
+        "id": "r114",
+        "product": "Hatch Rest Baby Sound Machine",
+        "category": "bedroom",
+        "rating": 3,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Good sound quality but the app requires a subscription for some features which I did not expect at this price point. The basic white noise without app works fine though."
+    },
+    {
+        "id": "r115",
+        "product": "Hatch Rest Baby Sound Machine",
+        "category": "bedroom",
+        "rating": 5,
+        "stage": "pregnant",
+        "language": "ar",
+        "text": "اشتريتها قبل الولادة بناء على نصيحة متخصصة النوم. تقول إن البدء مبكراً بالضوضاء البيضاء يساعد في تنظيم نوم الرضيع."
+    },
+    {
+        "id": "r116",
+        "product": "Hatch Rest Baby Sound Machine",
+        "category": "bedroom",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Our baby had her days and nights mixed up in the first two weeks. Combined with blackout curtains and the Hatch white noise we fixed the schedule within 5 days. Incredible tool."
+    },
+    {
+        "id": "r117",
+        "product": "Hatch Rest Baby Sound Machine",
+        "category": "bedroom",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "جهاز ممتاز. ساعد طفلي على النوم بشكل أفضل منذ الأسبوع الثالث. الأضواء الهادئة والأصوات المتنوعة تهدئ الطفل بسرعة."
+    },
+    {
+        "id": "r118",
+        "product": "Hatch Rest Baby Sound Machine",
+        "category": "bedroom",
+        "rating": 2,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "The WiFi setup was a nightmare. Took 3 attempts over 2 days to get it connected. Once connected it worked fine but the setup experience was very frustrating."
+    },
+    {
+        "id": "r119",
+        "product": "Hatch Rest Baby Sound Machine",
+        "category": "bedroom",
+        "rating": 5,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Three years later still using it every single night. The toddler clock feature is genuinely the only reason our 3 year old stays in bed until 7am. Best baby purchase we made."
+    },
+    {
+        "id": "r120",
+        "product": "Hatch Rest Baby Sound Machine",
+        "category": "bedroom",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Really helps with nap transitions. When my baby started fighting naps at 4 months the white noise helped maintain the sleep association. Would recommend to any sleep struggling family."
+    },
+    {
+        "id": "r121",
+        "product": "Chicco Duo Travel System",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "The car seat clicks directly onto the stroller without waking a sleeping baby. This alone is worth the price. Transfer from car to pram seamlessly. Best travel system decision."
+    },
+    {
+        "id": "r122",
+        "product": "Chicco Duo Travel System",
+        "category": "gear",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "ar",
+        "text": "اشتريته كمجموعة متكاملة للمواصلات. عربة الأطفال وكرسي السيارة من نفس النظام يجعل الانتقال سهلاً جداً. الجودة ممتازة."
+    },
+    {
+        "id": "r123",
+        "product": "Chicco Duo Travel System",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Used daily from week 2. Folds compactly and fits in our SUV boot easily. The adjustable handlebar is crucial as both my husband and I are different heights. Very practical."
+    },
+    {
+        "id": "r124",
+        "product": "Chicco Duo Travel System",
+        "category": "gear",
+        "rating": 3,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Heavy when folded. Not easy to manage alone when you also have a changing bag and a newborn. The system works great but ideally you have another adult with you."
+    },
+    {
+        "id": "r125",
+        "product": "Chicco Duo Travel System",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "أفضل شراء قبل الولادة. كرسي السيارة والعربة من نفس العلامة يوفران راحة كبيرة. طفلي نائم دائماً عند النقل."
+    },
+    {
+        "id": "r126",
+        "product": "Chicco Duo Travel System",
+        "category": "gear",
+        "rating": 4,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Used it solidly for 18 months. The stroller seat converts to forward facing which extended the use. Starting to look at bigger strollers now but this served us excellently."
+    },
+    {
+        "id": "r127",
+        "product": "Chicco Duo Travel System",
+        "category": "gear",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "The rain cover and sun shade that come included saved me multiple times. The basket underneath is massive and fits a full changing bag. Highly recommend as a complete system."
+    },
+    {
+        "id": "r128",
+        "product": "Chicco Duo Travel System",
+        "category": "gear",
+        "rating": 2,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "توقعت جودة أفضل بهذا السعر. العربة تميل قليلاً على الأسطح غير المستوية. كرسي السيارة ممتاز لكن العربة تحتاج تحسيناً."
+    },
+    {
+        "id": "r129",
+        "product": "Chicco Duo Travel System",
+        "category": "gear",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "The one hand fold is genuinely one handed. Tested it with baby in the carrier and it worked perfectly. This small detail makes a huge difference in daily use."
+    },
+    {
+        "id": "r130",
+        "product": "Chicco Duo Travel System",
+        "category": "gear",
+        "rating": 5,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "Assembled it at 37 weeks. My husband and I did a practice run around the block. So smooth on pavements. Already feel confident using it after the baby comes."
+    },
+    {
+        "id": "r131",
+        "product": "Aveeno Baby Wash and Shampoo",
+        "category": "bath",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My baby had dry patches from week 3. Dermatologist recommended Aveeno specifically. Within one week the patches were gone. The oat formula is incredibly gentle."
+    },
+    {
+        "id": "r132",
+        "product": "Aveeno Baby Wash and Shampoo",
+        "category": "bath",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "موصى به من طبيب الأمراض الجلدية لبشرة طفلي الحساسة. لا تهيج ولا جفاف. رائحة لطيفة جداً. سأستمر في استخدامه."
+    },
+    {
+        "id": "r133",
+        "product": "Aveeno Baby Wash and Shampoo",
+        "category": "bath",
+        "rating": 5,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Three years of using Aveeno on both my kids. Neither has had eczema flares. The tear free formula is still gentle enough for my toddler who hates getting water in her eyes."
+    },
+    {
+        "id": "r134",
+        "product": "Aveeno Baby Wash and Shampoo",
+        "category": "bath",
+        "rating": 3,
+        "stage": "toddler_mumz",
+        "language": "en",
+        "text": "Great for skin but does not lather as much as other shampoos. My 2 year old has thick hair and I feel like I need a lot of product. For babies with less hair it is perfect."
+    },
+    {
+        "id": "r135",
+        "product": "Aveeno Baby Wash and Shampoo",
+        "category": "bath",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My baby was born with very sensitive skin and a tendency toward eczema. Aveeno is the only wash that does not trigger a reaction. We have been using it for 8 months without issue."
+    },
+    {
+        "id": "r136",
+        "product": "Aveeno Baby Wash and Shampoo",
+        "category": "bath",
+        "rating": 4,
+        "stage": "pregnant",
+        "language": "ar",
+        "text": "اخترته بناء على تقييمات الأمهات والتوصيات الطبية. مكونات آمنة ومناسبة من الولادة. في انتظار الاستخدام."
+    },
+    {
+        "id": "r137",
+        "product": "Aveeno Baby Wash and Shampoo",
+        "category": "bath",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "بشرة طفلي ناعمة وصحية منذ بدأت استخدام أفينو. لا جفاف ولا احمرار. الرائحة خفيفة والمكونات طبيعية."
+    },
+    {
+        "id": "r138",
+        "product": "Aveeno Baby Wash and Shampoo",
+        "category": "bath",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Pediatrician recommended. No artificial fragrances which matters when you have a newborn. The pump bottle is easier to use one handed during bath time than a flip top."
+    },
+    {
+        "id": "r139",
+        "product": "Aveeno Baby Wash and Shampoo",
+        "category": "bath",
+        "rating": 2,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Baby developed a rash after one week. Stopped using it and the rash cleared. Might be a specific ingredient sensitivity. Works well for most babies judging by reviews but not for mine."
+    },
+    {
+        "id": "r140",
+        "product": "Aveeno Baby Wash and Shampoo",
+        "category": "bath",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Using Aveeno on my second baby after it worked perfectly on my first. The formula has not changed. Still gentle, still effective, still the only wash my family trusts."
+    },
+    {
+        "id": "r141",
+        "product": "Tommee Tippee Closer to Nature Bottle",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My baby moves between breast and this bottle with zero confusion. The breast-like teat shape is the reason. Anti-colic valve works and we have had very few gassy evenings."
+    },
+    {
+        "id": "r142",
+        "product": "Tommee Tippee Closer to Nature Bottle",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "حلمة الزجاجة تشبه الثدي الطبيعي كثيراً. طفلتي تتنقل بين الرضاعة الطبيعية والزجاجة بسهولة. ممتازة للرضاعة المختلطة."
+    },
+    {
+        "id": "r143",
+        "product": "Tommee Tippee Closer to Nature Bottle",
+        "category": "feeding",
+        "rating": 3,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Good bottle but the teat collapses occasionally under suction. Happens more with my strong feeder. Have to remove and let air in. Minor annoyance but worth mentioning."
+    },
+    {
+        "id": "r144",
+        "product": "Tommee Tippee Closer to Nature Bottle",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "pregnant",
+        "language": "en",
+        "text": "The midwife mentioned Tommee Tippee as a good option for mums who plan to breastfeed but also want to introduce a bottle. Adding it to the hospital bag."
+    },
+    {
+        "id": "r145",
+        "product": "Tommee Tippee Closer to Nature Bottle",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Easy to clean with a standard bottle brush. Wide neck is a plus. The anti-colic insert is a separate piece which means one extra part to clean but it really does reduce wind."
+    },
+    {
+        "id": "r146",
+        "product": "Tommee Tippee Closer to Nature Bottle",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "ar",
+        "text": "أفضل زجاجة للرضاعة المختلطة. لا ارتباك للرضيع بين الثدي والزجاجة. صمام مكافحة المغص فعال جداً. ننصح به لكل أم مرضعة."
+    },
+    {
+        "id": "r147",
+        "product": "Tommee Tippee Closer to Nature Bottle",
+        "category": "feeding",
+        "rating": 2,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "My baby flatly refused this bottle. Tried for 3 weeks, different temperatures, different times of day. Switched to Pigeon and she took it immediately. Bottle acceptance is so baby dependent."
+    },
+    {
+        "id": "r148",
+        "product": "Tommee Tippee Closer to Nature Bottle",
+        "category": "feeding",
+        "rating": 5,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "The slow flow teat is genuinely slow. My 8 week old takes 20 minutes for 90ml which is appropriate pacing. No gulping, no overeating, much less spit up since switching."
+    },
+    {
+        "id": "r149",
+        "product": "Tommee Tippee Closer to Nature Bottle",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "toddler_mumz",
+        "language": "ar",
+        "text": "استخدمناها من الولادة حتى الفطام. متينة ولا تسربات. تحملت غسيلاً يومياً لأكثر من سنة. قيمة ممتازة مقابل السعر."
+    },
+    {
+        "id": "r150",
+        "product": "Tommee Tippee Closer to Nature Bottle",
+        "category": "feeding",
+        "rating": 4,
+        "stage": "new_mumz",
+        "language": "en",
+        "text": "Sterilizes well in the microwave steam bag. The plastic is BPA free which matters to me. Design has not changed in years which is reassuring. A reliable and trustworthy product."
+    }
+]
